@@ -1,0 +1,10 @@
+framework module AWSIoT {
+  umbrella header "AWSIoT-umbrella.h"
+
+  export *
+  module * { export * }
+
+  private header "AWSIoTCSR.h"
+  private header "AWSIoTKeychain.h"
+  private header "AWSIoTMQTTClient.h"
+}

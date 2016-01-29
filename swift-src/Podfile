@@ -1,0 +1,6 @@
+platform :ios, '8.4'
+
+pod 'AWSIoT'
+pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+
+use_frameworks!

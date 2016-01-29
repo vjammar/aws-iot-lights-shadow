@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AWSCore.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>AWSIoT.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>28C391A67CB5DCCF7349118049E69525</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BDAAF98F703F6778307A734ED5F95770</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0D1B1F0AECA7765E5CB7A44E6F5158F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E42A1779F1FA33E339331D0FAF891625</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
