@@ -207,7 +207,7 @@ Proceed once you have a cognito identity pool id!
 7. Build and run!
 
 ## Disclaimer
-This project is in no way shape or form suitable for use commercial use. This project was purely for getting more familiar with Amazon's IoT service. Feel free to use this as a starting point for your own projects!
+This project is in no way shape or form suitable for commercial use. This project was purely for getting more familiar with Amazon's IoT service. Feel free to use this as a starting point for your own projects!
 
 [taralazar.com]: <http://taralazar.com/2013/10/01/piboidmo-logo-badge-and-guest-bloggers/>
 [Getting Started with AWS Iot on the Raspbery Pi]: <http://docs.aws.amazon.com/iot/latest/developerguide/iot-device-sdk-c.html>
